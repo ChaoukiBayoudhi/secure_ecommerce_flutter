@@ -59,7 +59,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/secure_ecommerce_flutter.git
+   git clone https://github.com/ChaoukiBayoudhi/secure_ecommerce_flutter.git
    cd secure_ecommerce_flutter
    ```
 
